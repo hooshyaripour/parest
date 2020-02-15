@@ -1,0 +1,12 @@
+/.idea
+/__pycache__
+/academia/__pycache__
+/academia/migrations
+/courses/__pycache__
+/courses/migrations
+/profiles/__pycache__
+/profiles/migrations
+/media/images
+/venv
+/db.sqlite3
+
